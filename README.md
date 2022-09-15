@@ -21,7 +21,7 @@ URL: https://www.saucedemo.com/
 
 ## 📦 To run the tests locally:
 ```
-git clone https://github.com/gabrieltrajano/buger-eats
+git clone https://github.com/gabrieltrajano/swaglabs
 ```
 ```
 npm install
